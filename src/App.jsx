@@ -1,13 +1,12 @@
 import './App.css'
-
+import UserProfileCard from './Components/UserProfileCard'
 function App() {
 
   return (
     <>
       <div>
-        <h1>Hello World</h1>
+        <UserProfileCard/>
       </div>
-      
     </>
   )
 }
