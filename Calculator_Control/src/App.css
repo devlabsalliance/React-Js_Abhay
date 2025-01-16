@@ -1,0 +1,45 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+div{
+  height: 100vh;
+  background-color: rgb(21, 54, 54);
+}
+.header{
+color: white;
+font-size: 50px;
+}
+.kg{
+  background-color: #d63535;
+  margin: 3px;
+  padding: 2px;
+  border-radius: 10px;
+  font-size: 15px;
+color: white;
+}
+.control{
+  height: 300px;
+  width: 200px;
+  background-color: #3fc923;
+  border: 2px solid black;
+  padding: 20px;
+  line-height: 35px;
+}
+.result{
+  font-size: 45px;
+  padding: 40px;
+}
+label{
+  font-size: 20px;
+}
+input{
+  height: 25px;
+  width: 180px;
+  font-size: 15px;
+}
+.kg-footer{
+  height: 40px;
+  width: 200px;
+  border: 2px solid black;
+}
